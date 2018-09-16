@@ -1,0 +1,64 @@
+* {
+	background-color: none;
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	
+	background-color: transparent;
+}
+
+.bg {
+	background-image:url(https://i.imgur.com/xmwhZ7k.jpg);
+	background-size: auto;
+	
+	background-color: #9966ff;
+	
+	
+}
+.secret img {
+	float:right;
+	width: 50px;
+	height: auto;
+}
+#HCB_comment_box blockquote {
+    color:white;
+  }
+
+  #HCB_comment_box .submit {
+    background:none; /* Clear twitter bootstrap style. */
+    background-color:green;
+    border:1px solid white;
+    color: white;
+  }
+
+#HCB_comment_box {
+	color:white;
+	text-align: center;
+	margin-top: 3em%;
+	font-size: 3em;
+	
+	
+	padding: 2em;
+	margin-left: 40vh;
+	margin-right: 40vh;
+}
+.comment {
+	font-size: 0.6em;
+	margin-bottom: 2em;
+}
+.hcb-comment-tb, .home-desc {
+	display: none;
+}
+
+.hcb_form a {
+	display: none!important;
+}
+
+.hcb_form label a {
+	display: inline!important;
+}
+
+
+

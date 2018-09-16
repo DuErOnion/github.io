@@ -1,0 +1,81 @@
+* {
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  
+  background-color: transparent;
+}
+
+
+
+.bg {
+  background-image:url(https://i.imgur.com/xmwhZ7k.jpg);
+  background-size: auto;
+  
+  background-color: #9966ff;
+  
+  
+}
+
+.secret img {
+  float:left;
+  width: 50px !important;
+  height: auto;
+}
+
+
+
+.hidden {
+  display: none;
+}
+
+.container {
+  margin: 0;
+  min-width: 1000px;
+  margin: auto;
+}
+
+.container > div {
+  display: inline-block;
+}
+
+#slideshow {
+  margin: 0;
+  position: relative;
+  max-width: 1000px;
+  min-width: 900px;
+  height: auto;
+}
+
+#slideshow > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#slideshow img {
+  width: 100%;
+  margin: 0;
+  border: solid 1px #283593;
+}
+
+a {
+  width: 40px;
+  font-size: 64px;
+  display: inline-block;
+  color: #9fa8da;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 400px;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+
+
