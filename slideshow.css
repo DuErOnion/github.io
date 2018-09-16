@@ -26,6 +26,12 @@ html, body {
   height: auto;
 }
 
+.secret img {
+  float:left !important;
+  width: 50px !important;
+  height: auto;
+}
+
 
 
 .hidden {
