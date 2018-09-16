@@ -20,7 +20,7 @@ html, body {
   
 }
 
-.secret img {
+.secret {
   float:left !important;
   width: 50px !important;
   height: auto;
