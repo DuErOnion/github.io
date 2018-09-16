@@ -22,12 +22,12 @@ html, body {
 
 .secret {
   float:left !important;
-  width: 50px !important;
-  height: auto;
+  
+  
 }
 
-.secret img {
-  float:left !important;
+.secret a img {
+  
   width: 50px !important;
   height: auto;
 }
