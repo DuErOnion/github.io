@@ -33,6 +33,9 @@ html, body {
   
   width: 50px !important;
   height: auto;
+  position:absolute;
+  top: 0;
+  left: 0;
 }
 
 
