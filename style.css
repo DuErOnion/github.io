@@ -60,7 +60,7 @@ html, body {
 	display: inline!important;
 }
 
-@media screen and (max-width: 800px) {
+@media only screen and (max-width: 768px) {
   #HCB_comment_box {
     margin-left: 0;
     margin-right: 0;
