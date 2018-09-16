@@ -44,6 +44,8 @@ html, body {
 
 #slideshow {
   margin: 0;
+  margin-left:auto;
+  margin-right:auto;
   position: relative;
   max-width: 1000px;
   min-width: 900px;
