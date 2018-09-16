@@ -36,11 +36,12 @@ html, body {
   margin: 0;
   min-width: 1000px;
   margin: auto;
+  border: 2px solid black;
 }
 
 .container > div {
   display: inline-block;
-  border: 2px solid black;
+
 }
 
 #slideshow {
